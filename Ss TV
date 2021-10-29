@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://www.klma.org/wp-content/uploads/2020/10/%D9%82%D9%86%D8%A7%D8%A9-%D8%B2%D9%8A-%D8%A7%D9%81%D9%84%D8%A7%D9%85.jpg",zeeافلام 
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg",zeeالوان
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjS7MxQ9OANe0XhXiZdwIEacVsYEPVQtF6Sw&usqp=CAU",TV دراما 
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVwGheBQRb9MIyduAZOqF_ReffqzlZp96Eg&usqp=CAU",دبي
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmsbznJll6_TGW7UwIqqTDG_Jql_4rq-6WQ&usqp=CAU",افلام اجيال
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXEN9x6SJcChtXPKj6DqGVwRv7_js-NvCD6MkHF7IIxre9fRlUv1Lak_-M",روتانا كلاسيك 
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://media.elcinema.com/tvguide/1358_1.png",روتانا كوميدي
+https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://media.elcinema.com/tvguide/1149_1.png",روتانا خليجية 
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://media.elcinema.com/tvguide/1147_1.png",روتانا دراما 
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://media.elcinema.com/tvguide/1148_1.png",روتانا سينما 
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:1 group="عربي" logo="https://media.elcinema.com/tvguide/1148_1.png",روتانا سينما 2
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://rotana.net/triAssets/uploads/2020/11/hd.png",روتانا +
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://i.imgur.com/YLcmYCR_d.webp?maxwidth=640&shape=thumb&fidelity=medium"  ,البيثي
+https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://i.imgur.com/YPR45yP.png",البسيA
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2LvatO0VYYbpIbeRQE2QBOt2zfJSUqjYQOw&usqp=CAU",وياك مكس 
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://weyyak.com/favicon_512.png" ,وياك
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8PX3214hqt-B08UW7VqvJdBTW-bAwSlm01g&usqp=CAU",مسلسلات 
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8PX3214hqt-B08UW7VqvJdBTW-bAwSlm01g&usqp=CAU",افلام مدبلجة 
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://i.imgur.com/eKBXOKd.png",ام بي سي
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://i.imgur.com/eKBXOKd.png",ام بي سي١
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://i.imgur.com/GLltP2T.png",MBC 2 
+https://au7live.tooliserver.com/live/149010_0.m3u8?session=
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://shahidstatic3.akamaized.net//mediaObject/Waseem/Items/MBC_Drama-/original/MBC_Drama-.jpg?height=379.5&width=675&croppingPoint=&version=1&type=webp",ام بي سي دراما 
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://i.imgur.com/F5ER0we.png",ام بي سي دراما 2
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://media.elcinema.com/tvguide/1278_1.png" ,مصر 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY2ke9azioKhlSgFUT6yKGdHe2nPTVw6MGZAq_aeIzbG4oyL0qhwAQkM0-",مصر 
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png",ام بي سي مصر 
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png",ام بي سي العراق
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://i.imgur.com/pfF61uH.png",ام بي سي 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png",ام بي سي 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://i.imgur.com/n3TgfP0.png",ام بي سي مكس
+https://au7live.tooliserver.com/live/149013_0.m3u8?session=
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://i.imgur.com/fMjhK06.png",ام بي سي بوللواد
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png",ام بي سي باريس
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="عربي" logo="https://i.imgur.com/zmVCXIK.png",Al Quran Al Kareem TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="اغاني عربي " logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" ,ام بي سي FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني عربي " logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFk2OoworV5y45WIgOmo3G6x9VZKG_QylgS0WGcelUlVtKNr9cNuaMybK",خليك بلجوFM
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني عربي " logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTK3JyzWt3KkGomqStTssI_k3Ee9sOkXh39w&usqp=CAU",وناسا
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني عربي " logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdODQqtsotWYgxm3VbGMXMIqvW4kM2iyFuwA&usqp=CAU" ,روتانا FM
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني عربي " logo="https://arabicagroup.tv/images/app1.png" ,Arabica TV 
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني عربي " logo="https://masmediatv.es/images/2020/10/28/arabic-hqm-logo0 type="stream" channelId="-1".png",HQM Arabic 
+https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني عربي " logo="https://play-lh.googleusercontent.com/ThdmgeQU00bTUimYFDELbg9wqNwtR4pvq0Qxygmba07fo89s25As3c50euEetjVjZo1X" ,ميلديFM
+https://cdn3.wowza.com/1/ZFBldUlPNjRBRDZM/ZW90V2ZW/hls/live/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="اطفال عربي " logo="https://media.elcinema.com/tvguide/1242_1.png" ,CNبالعربي 
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال عربي " logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBnvDy4mqA1eMTfKdympPslOzd-y3reoFkA&usqp=CAU" ,ماجد
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunks.m3u8?adtv
+#EXTINF:0 type="stream" channelId="-1" group="اطفال عربي "  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9q40tYUicApxHgkrp29Z4BvmXp249ldzsng&usqp=CAU" ,gulli بالعربي
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال عربي " logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQavuTheSrncd9UCWpptzJvPBzpwhGl84ChVQ&usqp=CAU" ,اثبيثتون
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال عربي " logo="https://i.imgur.com/RzPOwqI.png",Spacetoon 
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال عربي " logo="https://media.elcinema.com/tvguide/1356_1.png" ,روتانا اطفال 
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال عربي " logo="https://i.imgur.com/FVNVC73.png" ,ام بي سي3 اطفال 
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال عربي " logo="https://i.imgur.com/FVNVC73.png" ,ام بي سي3 اطفال+
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال عربي " logo="https://i.imgur.com/FVNVC73.png" ,ام بي سي3 اطفالHD
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="اطفال تركي " logo="https://i.ibb.co/R32Hssx/trtcocuk.png" , TRT COCUK
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال تركي " logo="https://i.ibb.co/NLqVCks/blutv.png" , KIDS TURK
+https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال تركي " logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" , MINIKA COCUK
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+#EXTINF:0 type="stream" channelId="-1" group="اطفال تركي " logo="https://i.ibb.co/R2Zgy7F/minikago.png" , MINIKA GO
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال تركي " logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" , CARTOON NETWORK TR
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال تركي " logo="https://i.ibb.co/vd1XK13/disneyturkey.png" , DISNEY CHANNEL TR
+http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال تركي " logo="https://i.ibb.co/VgQLXd0/trtebailk.png" , TRT EBA ILK
+https://tv-e-okul00.live.trt.com.tr/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال تركي " logo="https://i.ibb.co/3BYyskw/trtebaorta.png" , TRT EBA ORTA
+https://tv-e-okul01.live.trt.com.tr/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اطفال تركي " logo="https://i.ibb.co/wgvcV7r/trtebalise.png" , TRT EBA LISE
+https://tv-e-okul02.live.trt.com.tr/master.m3u8
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrPT42Cj7O8tB9_ldrlGrRqVExRd28Th_a9lz82xgl8WOHMNTdS4faPQi&s=10" ,تركي عربي 
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://i.imgur.com/x9TQYI3.jpg" ,Al Jazeera عربي 
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://i.imgur.com/oFGPG9Y.png" ,BBC عربي 
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" ,CGTN عربي 
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://i.imgur.com/A1xzjOI.png" ,DW عربي 
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://i.imgur.com/61MSiq9.png" ,France 24 عربي 
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://i.imgur.com/MosTwQW.png"  ,Medi 1 TV A عربي 
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://i.imgur.com/XYJEasM.png" ,RT Arabic 
+https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_VuFYbwABq45SGRKDKthexSRDCjR5eQJCNQ4Zn22sHR_KgYB81f3Mup4&s=10" ,الحرة عرق
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="http://www.alittihad.tv/assets/images/logo_new.png" ,الأتحاد
+https://live.alittihad.tv/ittihad/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Al-Mamlaka_TV_logo.png" ,المملكة 
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://polokom.com.tr/wp-content/uploads/2020/11/WATAN-TV-PNG.png" ,وطن
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://i.imgur.com/ooiJwD5.png",Alhiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://i.imgur.com/El2hhYb.png",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اخبار" logo="https://i.imgur.com/LNI1HNi.png",Alaraby TV 
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/PGjZ9JB/tgrthab.png" , TGRT HABER
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/w7DF3N1/trt1.png" , TRT 1
+https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/PcDpxSH/startr1.png" , STAR
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/s9mVqWH/kanald.png" , KANAL D
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/BrGNZJ4/showtv.png" , SHOW
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/4tyCssZ/fox.png" , FOX
+http://213.115.248.46:9000/TR_-_FOX_HD_PLUS/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/s3y8PX9/a2.jpg" , A2
+http://213.115.248.46:9000/TR_-_A2_HD_PLUS/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/kxjKk89/showmax.png" , SHOW MAX
+http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/yRZ79Gn/trtspor.png" , TRT SPOR
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/ky3qVPc/trtspory2.png" , TRT SPOR2 YILDIZ
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/pQvb87s/trt3s.png" , TRT3 SPOR / TBMM TV
+http://iptvmasterlink.dyndns.org:8080/Entry/meclistv_yeni/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/rynNr53/yabantv.png" , YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrCXNB_3Pkl0rvZHM8x43T9aqw7wJN-0ZEDg&usqp=CAU" , TRT 2
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/xDLXDQS/eurostar.png" , EURO STAR
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="تركي" logo="https://i.ibb.co/WvhGGP0/showturk1.png" , SHOW TÜRK
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="اغاني تركي " logo="https://i.ibb.co/6401NQw/kraltv.png" , KRAL TV
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني تركي " logo="https://i.ibb.co/GVWZrhp/powerturk.png" , POWER TÜRK
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني تركي " logo="https://i.ibb.co/4SsJS4R/dreamturk.png" , DREAM TÜRK
+https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني تركي " logo="https://i.ibb.co/cQfPfgR/tatlises.png" , TATLISES
+http://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني تركي " logo="https://i.ibb.co/Jqzzby7/milyontv.png" , MILYON TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="اغاني تركي " logo="https://i.ibb.co/xhfcTC7/powertv.png" , POWER TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" group="تجريب" logo="https://cdn.icon-icons.com/icons2/2064/PNG/512/gears_settings_options_preferences_icon_124753.png" , 111
+https://www.clouddrive.site/secure/uploads/956133?shareable_link=974
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="تجريب" logo="https://cdn.icon-icons.com/icons2/2064/PNG/512/gears_settings_options_preferences_icon_124753.png" , 222
+https://www.clouddrive.site/secure/uploads/956199?shareable_link=975
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="تجريب" logo="https://cdn.icon-icons.com/icons2/2064/PNG/512/gears_settings_options_preferences_icon_124753.png" , 333
+https://l.top4top.io/m_2126s525l0.mp4
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="تجريب" logo="https://cdn.icon-icons.com/icons2/2064/PNG/512/gears_settings_options_preferences_icon_124753.png" , 444
+https://j.top4top.io/m_2126l7yop0.mp4
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="تجريب" logo="https://cdn.icon-icons.com/icons2/2064/PNG/512/gears_settings_options_preferences_icon_124753.png" , 555
+https://j.top4top.io/m_212610u870.mp4
+
+
+
+#EXTINF:0 type="stream" channelId="-1" group="تجريب" logo="https://cdn.icon-icons.com/icons2/2064/PNG/512/gears_settings_options_preferences_icon_124753.png" , 666
+https://l.top4top.io/m_2126tq3b01.mp4
+
