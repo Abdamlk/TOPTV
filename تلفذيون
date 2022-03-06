@@ -130,11 +130,11 @@ http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:-1 group-title="اطفال تركي ", tvg-logo="https://i.ibb.co/vd1XK13/disneyturkey.png" , DISNEY CHANNEL TR
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
 #EXTINF:-1 group-title="اطفال تركي ", tvg-logo="https://i.ibb.co/VgQLXd0/trtebailk.png" , TRT EBA ILK
-https://tv-e-okul00.live.trt.com.tr/master.m3u8
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="اطفال تركي ", tvg-logo="https://i.ibb.co/3BYyskw/trtebaorta.png" , TRT EBA ORTA
-https://tv-e-okul01.live.trt.com.tr/master.m3u8
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="اطفال تركي ", tvg-logo="https://i.ibb.co/wgvcV7r/trtebalise.png" , TRT EBA LISE
-https://tv-e-okul02.live.trt.com.tr/master.m3u8
+https//tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 
 
 
